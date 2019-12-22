@@ -1,14 +1,5 @@
 # Add your variables here
-def first_number
-  puts "#{first_number}"
-end
+first_number = 5
+second_number = 10 
 
-def second_number
-  puts "#{second_number}"
-end
-
-def addition
-  puts "#{first_number} + #{second_number}"
-end
-
-addition 
+sum = (first_number + second_number)
